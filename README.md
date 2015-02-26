@@ -1,4 +1,0 @@
-endetect
-========
-
-endetect
